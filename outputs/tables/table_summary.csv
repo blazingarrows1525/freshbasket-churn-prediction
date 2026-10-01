@@ -1,0 +1,4 @@
+table,rows,columns,exact_duplicate_rows,candidate_key,duplicate_keys,date_column,date_min,date_max,unique_customers
+fb Customer Profile,2608,10,8,CUSTOMER_ID,8,SIGNUP_DATE,2021-02-18,2024-05-02,2600
+fb Monthly Activity,28073,12,58,CUSTOMER_ID + MONTH,60,MONTH,2023-01-01,2024-06-01,2594
+fb Churn Label,2605,6,5,CUSTOMER_ID,5,,,,2600

@@ -1,0 +1,37 @@
+feature,all eligible,active,feature_name,group
+txn_trend,0.4593761239680355,0.5471184935436932,transaction trend (3m vs prior 3m),behavioural
+email_avg_6m,0.5947136376369979,0.5454348745656722,emails opened/month (6m),engagement
+txn_avg_3m,0.6554186030970548,0.5398105510722385,transactions/month (3m),behavioural
+app_avg_3m,0.4947075458505135,0.4353874095685858,app sessions/month (3m),engagement
+tickets_avg_3m,0.4030826773450017,0.43374924355825645,support tickets/month (3m),support
+txn_avg_6m,0.5172968883619784,0.4105422350367311,transactions/month (6m),behavioural
+MARKETING_OPT_IN,0.40356857660013895,0.4012945471154393,marketing opt-in,demographics
+recency_months,0.8273676495686508,0.38762445963302883,months since last purchase,behavioural
+email_avg_3m,0.39760957049741497,0.3784464917413533,emails opened/month (3m),engagement
+coupons_avg_3m,0.3605701867815545,0.34282645294096586,coupons redeemed/month (3m),engagement
+app_avg_6m,0.391487831965114,0.3286604904394665,app sessions/month (6m),engagement
+app_trend,0.2514843119786426,0.31156879913932345,app session trend,engagement
+months_since_any_activity,0.6034513923567163,0.25797786291104824,months since any recorded activity,engagement
+history_months,0.20564207787153715,0.23369259774758322,months of history,behavioural
+gap_months_6m,0.1827542835315081,0.20881246644599846,missing months in records (6m),behavioural
+spend_avg_6m,0.24900670978507808,0.20505624008039752,spend/month (6m),behavioural
+spend_avg_3m,0.24153894908072546,0.20452680488677752,spend/month (3m),behavioural
+CITY,0.1824876266305396,0.1838524127824408,city,demographics
+email_trend,0.14651936656670353,0.18373180630631653,email-open trend,engagement
+HOME_STORE_PRICE_TIER,0.17959497156508197,0.1798030880566111,home store price tier,demographics
+PREFERRED_CATEGORY,0.16513122246216705,0.1664643728265537,preferred category,demographics
+cats_avg_3m,0.17783685273974748,0.14227628579114637,categories bought/month (3m),behavioural
+coupons_avg_6m,0.13988842832657805,0.12114756632515054,coupons redeemed/month (6m),engagement
+promo_pct_avg_6m,0.2258587389839116,0.11075883616656318,share of promo transactions (6m),behavioural
+MEMBERSHIP_TIER,0.11140274782841625,0.11028191475611339,membership tier,demographics
+tickets_avg_6m,0.09596928523189478,0.09447293108995038,support tickets/month (6m),support
+basket_avg_6m,0.19257409234096085,0.07147943162719698,average basket (6m),behavioural
+tenure_months,0.06236815717118404,0.06346476811437561,tenure (months),demographics
+GENDER,0.058064839722212956,0.05890016025718839,gender,demographics
+no_purchase_6m,0.18332442971011229,0.05884478368299747,no purchase in 6 months,behavioural
+coupon_trend,0.04328779856952912,0.054515872087435656,coupon trend,engagement
+active_share_6m,0.08493425462898119,0.045716469205937936,share of months with a purchase (6m),behavioural
+spend_trend,0.022937156639157515,0.027346307417556916,spend trend (3m vs prior 3m),behavioural
+tickets_trend,0.021503822927344162,0.024069546597046177,support ticket trend,support
+AGE,0.02123691591617103,0.0215682461252029,age,demographics
+complaint_6m,0.010414751041447535,0.011142820806913097,complaint in last 6 months,support

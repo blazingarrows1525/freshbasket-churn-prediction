@@ -1,0 +1,7 @@
+| cutoff     | label_window       |   eligible_members |   churn_rate_all |   active_members |   churn_rate_active |   lapsed_members |   churn_rate_lapsed | role                     |
+|:-----------|:-------------------|-------------------:|-----------------:|-----------------:|--------------------:|-----------------:|--------------------:|:-------------------------|
+| 2023-06-30 | Jul 2023 +3 months |               1787 |            0.182 |             1624 |               0.103 |              163 |               0.969 | training (label rebuilt) |
+| 2023-09-30 | Oct 2023 +3 months |               1980 |            0.245 |             1655 |               0.100 |              325 |               0.985 | training (label rebuilt) |
+| 2023-12-31 | Jan 2024 +3 months |               2167 |            0.301 |             1681 |               0.102 |              486 |               0.990 | training (label rebuilt) |
+| 2024-03-31 | Apr 2024 +3 months |               2368 |            0.343 |             1715 |               0.096 |              653 |               0.994 | test (given CHURNED)     |
+| 2024-06-30 | Jul 2024 +3 months |               2474 |          nan     |             1657 |             nan     |              817 |             nan     | scoring (future unknown) |

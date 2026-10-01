@@ -1,0 +1,7 @@
+model,PR-AUC active (test),95% CI,ROC-AUC active,F1 active,Brier active,stability: PR-AUC over 3 quarters (mean +/- sd),complexity,interpretability,decision
+rule_recency,0.514,0.437-0.589,0.861,0.576,0.069,0.502 +/- 0.038,none,fully transparent,baseline
+logreg,0.828,0.775-0.873,0.962,0.756,0.034,0.824 +/- 0.019,low (36 coefficients),exact per-member contributions,SELECTED
+logreg_balanced,0.816,0.756-0.865,0.961,0.74,0.043,not run,low,exact contributions,rejected (worse calibration)
+random_forest,0.817,0.764-0.863,0.955,0.711,0.038,0.765 +/- 0.045,high (500 trees),needs SHAP / permutation,rejected (not better)
+lightgbm,0.823,0.769-0.872,0.96,0.749,0.034,0.804 +/- 0.025,medium-high (boosted trees),needs SHAP,challenger (statistical tie)
+lightgbm_balanced,0.827,0.774-0.873,0.96,0.744,0.037,not run,medium-high,needs SHAP,rejected (worse calibration)

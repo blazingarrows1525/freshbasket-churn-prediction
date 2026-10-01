@@ -1,0 +1,11 @@
+check,passed,evidence
+activity customers exist in the profile table,True,0 orphan IDs
+label customers == profile customers,True,"label-only 0, profile-only 0"
+every labelled customer has activity rows,False,6 members without any activity row
+CUSTOMER_ID unique in profile,False,8 repeated IDs (8 exact duplicate rows)
+CUSTOMER_ID unique in label table,False,5 repeated IDs (5 exact duplicate rows)
+CUSTOMER_ID + MONTH unique in activity,False,60 repeated keys (58 exact duplicate rows)
+18 consecutive activity months,True,"2023-01-01 to 2024-06-01, 18 distinct months"
+every member has an activity row in all 18 months,False,"400 of 2594 members; rows per member median 11, min 1 (late sign-ups, lapsed members and deleted rows)"
+join grain: profile 1 : label 1 : activity many (after de-duplication),True,profile and label are one row per member once exact duplicates are removed; activity is one row per member-month
+label CHURNED is binary,True,"values [0, 1], churn rate 31.5%"

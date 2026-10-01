@@ -1,0 +1,19 @@
+| dimension       | segment   |   members |   actual_rate |   mean_predicted |   share_high_risk |
+|:----------------|:----------|----------:|--------------:|-----------------:|------------------:|
+| membership_tier | Gold      |       554 |         0.097 |            0.096 |             0.094 |
+| membership_tier | Platinum  |       202 |         0.094 |            0.077 |             0.054 |
+| membership_tier | Silver    |       959 |         0.095 |            0.099 |             0.092 |
+| city            | Austin    |       159 |         0.113 |            0.123 |             0.132 |
+| city            | Boise     |       166 |         0.114 |            0.102 |             0.102 |
+| city            | Columbus  |       164 |         0.110 |            0.131 |             0.116 |
+| city            | Denver    |       173 |         0.087 |            0.090 |             0.081 |
+| city            | Madison   |       175 |         0.103 |            0.096 |             0.086 |
+| city            | Nashville |       151 |         0.073 |            0.068 |             0.060 |
+| city            | Portland  |       165 |         0.097 |            0.095 |             0.085 |
+| city            | Raleigh   |       190 |         0.074 |            0.087 |             0.084 |
+| city            | Spokane   |       173 |         0.098 |            0.083 |             0.069 |
+| city            | Tulsa     |       199 |         0.090 |            0.082 |             0.070 |
+| signup_cohort   | 2021      |       472 |         0.076 |            0.088 |             0.085 |
+| signup_cohort   | 2022      |       505 |         0.111 |            0.101 |             0.095 |
+| signup_cohort   | 2023      |       614 |         0.111 |            0.103 |             0.091 |
+| signup_cohort   | 2024      |       124 |         0.032 |            0.061 |             0.056 |

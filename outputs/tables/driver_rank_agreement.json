@@ -1,0 +1,12 @@
+{
+  "spearman_rank_correlation_active": 0.588931788931789,
+  "top10_overlap": 6,
+  "top10_common_features": [
+    "app_avg_3m",
+    "coupons_avg_3m",
+    "email_avg_3m",
+    "recency_months",
+    "tickets_avg_3m",
+    "txn_avg_3m"
+  ]
+}

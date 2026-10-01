@@ -1,0 +1,5 @@
+cutoff,members,activity_rows_removed,features_compared,max_abs_difference,missing_value_mismatches,categorical_mismatches,passed
+2023-06-30,1947,18975,36,0.0,0,0,True
+2023-09-30,2149,14315,36,0.0,0,0,True
+2023-12-31,2353,9572,36,0.0,0,0,True
+2024-03-31,2549,4760,36,0.0,0,0,True

@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "freshbasket-churn"
+version = "1.0.0"
+description = "Loyalty-member churn prediction for FreshBasket Retail (Tailwyndz Propel 2026, Assessment 4)"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]

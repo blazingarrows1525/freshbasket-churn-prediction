@@ -1,0 +1,20 @@
+# environment
+.venv/
+*.egg-info/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# data: the supplied workbook is not redistributed; caches are rebuilt by the pipeline
+data/raw/*.xlsx
+data/interim/
+data/processed/*.parquet
+
+# intermediate model artefacts (rebuilt in seconds by run_pipeline.py)
+outputs/models/
+outputs/predictions/*.parquet
+
+# local tools / previews
+presentation/_preview/
+.claude/
+*.log

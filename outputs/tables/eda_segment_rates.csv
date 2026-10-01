@@ -1,0 +1,71 @@
+attribute,value,population,churn_rate,n
+MEMBERSHIP_TIER,Gold,all eligible,0.3302,751.0
+MEMBERSHIP_TIER,Platinum,all eligible,0.3394,277.0
+MEMBERSHIP_TIER,Silver,all eligible,0.3515,1340.0
+MEMBERSHIP_TIER,Gold,active,0.0975,554.0
+MEMBERSHIP_TIER,Platinum,active,0.0941,202.0
+MEMBERSHIP_TIER,Silver,active,0.0949,959.0
+CITY,Austin,all eligible,0.4083,240.0
+CITY,Boise,all eligible,0.3496,226.0
+CITY,Columbus,all eligible,0.3992,243.0
+CITY,Denver,all eligible,0.3176,233.0
+CITY,Madison,all eligible,0.3262,233.0
+CITY,Nashville,all eligible,0.3575,221.0
+CITY,Portland,all eligible,0.307,215.0
+CITY,Raleigh,all eligible,0.3231,260.0
+CITY,Spokane,all eligible,0.3158,228.0
+CITY,Tulsa,all eligible,0.3271,269.0
+CITY,Austin,active,0.1132,159.0
+CITY,Boise,active,0.1145,166.0
+CITY,Columbus,active,0.1098,164.0
+CITY,Denver,active,0.0867,173.0
+CITY,Madison,active,0.1029,175.0
+CITY,Nashville,active,0.0728,151.0
+CITY,Portland,active,0.097,165.0
+CITY,Raleigh,active,0.0737,190.0
+CITY,Spokane,active,0.0983,173.0
+CITY,Tulsa,active,0.0905,199.0
+signup_cohort,2021,all eligible,0.3866,714.0
+signup_cohort,2022,all eligible,0.4045,754.0
+signup_cohort,2023,all eligible,0.2938,776.0
+signup_cohort,2024,all eligible,0.0323,124.0
+signup_cohort,2021,active,0.0763,472.0
+signup_cohort,2022,active,0.1109,505.0
+signup_cohort,2023,active,0.1107,614.0
+signup_cohort,2024,active,0.0323,124.0
+GENDER,F,all eligible,0.3532,1260.0
+GENDER,M,all eligible,0.3279,976.0
+GENDER,Other,all eligible,0.3214,84.0
+GENDER,Unknown,all eligible,0.4375,48.0
+GENDER,F,active,0.0936,897.0
+GENDER,M,active,0.0954,723.0
+GENDER,Other,active,0.0952,63.0
+GENDER,Unknown,active,0.1562,32.0
+HOME_STORE_PRICE_TIER,Mainstream,all eligible,0.3434,1031.0
+HOME_STORE_PRICE_TIER,Unknown,all eligible,0.3083,120.0
+HOME_STORE_PRICE_TIER,Upscale,all eligible,0.302,394.0
+HOME_STORE_PRICE_TIER,Value,all eligible,0.3682,823.0
+HOME_STORE_PRICE_TIER,Mainstream,active,0.0889,742.0
+HOME_STORE_PRICE_TIER,Unknown,active,0.0879,91.0
+HOME_STORE_PRICE_TIER,Upscale,active,0.0897,301.0
+HOME_STORE_PRICE_TIER,Value,active,0.1084,581.0
+PREFERRED_CATEGORY,Bakery,all eligible,0.39,300.0
+PREFERRED_CATEGORY,Beverages,all eligible,0.3333,291.0
+PREFERRED_CATEGORY,Dairy,all eligible,0.3345,275.0
+PREFERRED_CATEGORY,Frozen Foods,all eligible,0.3252,329.0
+PREFERRED_CATEGORY,Household,all eligible,0.3634,322.0
+PREFERRED_CATEGORY,Personal Care,all eligible,0.3262,282.0
+PREFERRED_CATEGORY,Produce,all eligible,0.3411,258.0
+PREFERRED_CATEGORY,Snacks,all eligible,0.3312,311.0
+PREFERRED_CATEGORY,Bakery,active,0.1244,209.0
+PREFERRED_CATEGORY,Beverages,active,0.1227,220.0
+PREFERRED_CATEGORY,Dairy,active,0.1117,206.0
+PREFERRED_CATEGORY,Frozen Foods,active,0.0947,243.0
+PREFERRED_CATEGORY,Household,active,0.0724,221.0
+PREFERRED_CATEGORY,Personal Care,active,0.0686,204.0
+PREFERRED_CATEGORY,Produce,active,0.0765,183.0
+PREFERRED_CATEGORY,Snacks,active,0.0917,229.0
+MARKETING_OPT_IN,0.0,all eligible,0.378,918.0
+MARKETING_OPT_IN,1.0,all eligible,0.3214,1450.0
+MARKETING_OPT_IN,0.0,active,0.1135,643.0
+MARKETING_OPT_IN,1.0,active,0.0849,1072.0

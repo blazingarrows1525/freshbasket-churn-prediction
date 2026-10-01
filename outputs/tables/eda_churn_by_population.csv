@@ -1,0 +1,6 @@
+snapshot,mean,mean,size,size
+,active (bought in last 3 months),lapsed (no purchase in last 3 months),active (bought in last 3 months),lapsed (no purchase in last 3 months)
+2023-06-30,0.103,0.969,1624,163
+2023-09-30,0.1,0.985,1655,325
+2023-12-31,0.102,0.99,1681,486
+2024-03-31,0.096,0.994,1715,653
